@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "rebornix.Ruby",
+        "vortizhe.simple-ruby-erb",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "mtxr.sqltools",
+        "mtxr.sqltools-driver-pg",
+        "styled-components.vscode-styled-components",
+        "redhat.vscode-yaml"
+    ]
+}
